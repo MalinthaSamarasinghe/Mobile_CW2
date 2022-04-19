@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">W1832133</string>
+    <string name="My_API_KEY">e1156dbb</string>
+    <string name="Copyright">Copyright © 2022 Galaxy Movie All right reserved.</string>
+    <string name="database_table">Database Table</string>
+    <string name="movie_logo">movie_logo</string>
+    <string name="add_movies_to_db">Add Movies to DB</string>
+    <string name="search_for_movies">Search for Movies</string>
+    <string name="search_for_actors">Search for Actors</string>
+    <string name="search_movie_from_web">Search Movie From Web</string>
+    <string name="the_results_will_appear_here">The results will appear here</string>
+    <string name="search">search</string>
+    <string name="galaxy_movie">Galaxy Movie</string>
+    <string name="retrieve_movie">Retrieve Movie</string>
+    <string name="save_movie_to_database">Save Movie To Database</string>
+</resources>
